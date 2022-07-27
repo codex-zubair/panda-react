@@ -1,5 +1,25 @@
+
+
+/* header Section Start */
+
+header
+{   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .header-shoe
 
 {
     background-color: red;
 }
+
+
+.custom-flex
+{
+    display: flex;
+    justify-content: center !important;
+}
+
+/* header Section End */
